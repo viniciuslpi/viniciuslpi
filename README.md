@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ## Olá. Eu sou Vinícius Pimentel
 
-Ciência da Computação - Universidade Anhembi Morumbi <br>
+Ciência da Computação - Universidade Anhembi Morumbi (6/8)<br>
 Atualmente estudo Frontend com HTML, CSS e Javascript
 
  <div>
