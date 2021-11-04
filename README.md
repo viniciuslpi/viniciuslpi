@@ -12,10 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Olá. Eu sou Vinícius Pimentel
+## Vinícius Pimentel
 
-Ciência da Computação - Universidade Anhembi Morumbi (6/8)<br>
-Atualmente estudo Frontend com HTML, CSS e Javascript
+🌱 I'm currently learning about Javascript and their funcionalities.
 
  <div>
   <a href="https://github.com/viniciuslpi">
