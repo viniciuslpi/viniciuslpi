@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ## Hi, I am Vinícius Pimentel
 
-- 🔭 Computer Science Student 8/9
+- 🔭 Computer Science Student 7/8
 - 🌱 I’m currently learning TypeScript and their funcionalities 
 
 <div>
