@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ## Hi, I am Vinícius Pimentel
 
 - 🔭 Computer Science - Anhembi Morumbi University (7/8)
-- 🌱 I’m currently learning about TypeScript
+- ⚡ I’m currently learning about Angular
 
 <div>
   <a href="https://github.com/viniciuslpi">
