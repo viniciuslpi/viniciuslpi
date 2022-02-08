@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ## Hi, I am Vinícius Pimentel
 
 - 🔭 Computer Science - Anhembi Morumbi University (7/8)
-- ⚡ I’m currently learning about Angular
+- ⚡ Learning more about Angular
 
 <div>
   <a href="https://github.com/viniciuslpi">
@@ -26,6 +26,7 @@ Here are some ideas to get you started:
   ## My Skills
   
 <div style="display: inline_block">
+  <img align="center" alt="Vini-ANGULAR" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Vini-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
