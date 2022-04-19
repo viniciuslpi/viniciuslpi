@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ## Hi, I am Vinícius Pimentel
 
 - 🔭 Computer Science Student - Anhembi Morumbi University (7/8)
-- ⚡ Learning about Angular testing using Karma and Jasmine
+- ⚡ Learning about NodeJS
 
 <div>
   <a href="https://github.com/viniciuslpi">
