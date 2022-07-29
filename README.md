@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ## Hi, I am Vinícius Pimentel
 
-- 🔭 Computer Science Student - Anhembi Morumbi University (7/8)
+- 🔭 Computer Science Student - Anhembi Morumbi University (8/8)
 - ⚡ Im currently learning about Angular and NodeJS
 
 <div>
