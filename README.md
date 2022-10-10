@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 - 🔭 Computer Science Student - Anhembi Morumbi University (8/8)
 - ⚡ Im currently learning about Vue.js and Node.js
 
+[![wakatime](https://wakatime.com/badge/user/863f26f1-3755-4c3a-9f17-e8efacfdfd59.svg)](https://wakatime.com/@863f26f1-3755-4c3a-9f17-e8efacfdfd59)
+
 <div>
   <a href="https://github.com/viniciuslpi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciuslpi&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
