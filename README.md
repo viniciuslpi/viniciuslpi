@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ## Hi, I am Vinícius Pimentel
 
-- 🔭 Computer Science Student - Anhembi Morumbi University (8/8)
+- 🔭 Computer Science - Anhembi Morumbi University
 - ⚡ Im currently learning about Nest.js
 
 [![wakatime](https://wakatime.com/badge/user/863f26f1-3755-4c3a-9f17-e8efacfdfd59.svg)](https://wakatime.com/@863f26f1-3755-4c3a-9f17-e8efacfdfd59)
