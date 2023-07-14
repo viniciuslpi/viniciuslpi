@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 ## Hi, I am Vinícius Pimentel
 
-- 🔭 Computer Science - Anhembi Morumbi University
-- ⚡ Im currently learning about React
+- 💻 Computer Science - Anhembi Morumbi University
+- ⚡ Currently learning about React 
 
 [![wakatime](https://wakatime.com/badge/user/863f26f1-3755-4c3a-9f17-e8efacfdfd59.svg)](https://wakatime.com/@863f26f1-3755-4c3a-9f17-e8efacfdfd59)
 
@@ -39,6 +39,7 @@ Here are some ideas to get you started:
   <img align="center" alt="JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
+  <img align="center" alt="Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 </div>
   
   ##
