@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ## Hi, I am Vinícius Pimentel
 
 - 💻 Bachelor Degree in Computer Science by Anhembi Morumbi University (2022)
-- ⚡ Currently learning about AWS services
+- ⚡ Currently learning about Java
 
 [![wakatime](https://wakatime.com/badge/user/863f26f1-3755-4c3a-9f17-e8efacfdfd59.svg)](https://wakatime.com/@863f26f1-3755-4c3a-9f17-e8efacfdfd59)
 
