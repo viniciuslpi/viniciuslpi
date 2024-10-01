@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ## Hi, I am Vinícius Pimentel
 
 - 💻 Bachelor Degree in Computer Science by Anhembi Morumbi University (2022)
-- ⚡ Currently learning about Flutter & Golang
+- ⚡ Currently learning about Flutter 
 
 [![wakatime](https://wakatime.com/badge/user/863f26f1-3755-4c3a-9f17-e8efacfdfd59.svg)](https://wakatime.com/@863f26f1-3755-4c3a-9f17-e8efacfdfd59)
 
@@ -28,6 +28,7 @@ Here are some ideas to get you started:
   ## My Skills
   
 <div style="display: inline_block">
+  <img  align="center" alt="Golang" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
   <img  align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Nestjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
   <img align="center" alt="Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />    
